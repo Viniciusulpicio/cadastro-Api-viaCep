@@ -1,0 +1,19 @@
+{
+  "name": "nova-tela-login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viniciusulpicio/nova-tela-login.git"
+  },
+  "author": "Vinicius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viniciusulpicio/nova-tela-login/issues"
+  },
+  "homepage": "https://github.com/Viniciusulpicio/nova-tela-login#readme"
+}
