@@ -24,3 +24,5 @@ Este é um projeto de exemplo de uma página de login simples que utiliza a API 
 
 
 ### Visite o site: https://viniciusulpicio.github.io/cadastro-Api-viaCep/
+
+![image](https://github.com/Viniciusulpicio/cadastro-Api-viaCep/assets/145928303/7f54e53a-d1a2-405e-b91b-30a101b62f15)
