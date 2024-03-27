@@ -21,6 +21,3 @@ Este é um projeto de exemplo de uma página de login simples que utiliza a API 
 
 - Certifique-se de ter uma conexão ativa com a internet para que a API do ViaCEP funcione corretamente.
 - Este projeto é apenas para fins educacionais e de demonstração.
-
-
-### Visite o site: https://viniciusulpicio.github.io/cadastro-Api-viaCep/
